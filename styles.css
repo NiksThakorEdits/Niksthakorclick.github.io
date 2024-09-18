@@ -63,7 +63,7 @@ section {
 }
 
 video {
-    width: 300px; /* Set desired width */
+    width: 50px; /* Set desired width */
     height: auto; /* Maintain aspect ratio */
     max-width: 100%; /* Ensure it remains responsive */
 }
